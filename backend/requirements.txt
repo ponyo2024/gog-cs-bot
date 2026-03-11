@@ -2,7 +2,7 @@
 torch==2.5.0+cpu
 fastapi==0.104.1
 uvicorn==0.24.0
-sentence-transformers==2.2.2
+sentence-transformers==3.3.1
 supabase==2.0.0
 requests==2.31.0
 pydantic==2.5.0
