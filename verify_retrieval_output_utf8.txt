@@ -1,0 +1,86 @@
+﻿============================================================
+
+Query: How do I unblock someone in chat?
+Results: 1
+  #1 [similarity: 0.7903]
+  Title: How do I unblock a player in chat
+  Source: manual_faq_seed
+  Content: How do I unblock a player in chat? Open the in-game chat, open your block list, find the player, and remove them from the blocked list. After removing the block, their messages can appear in chat agai...
+============================================================
+
+Query: What is the difference between wounded conversion and battlefield treatment?
+Results: 3
+  #1 [similarity: 0.5078]
+  Title: Guns of Glory - Maximizing Battlefield Treatment
+  Source: gamesguideinfo_guide
+  Content: 12/09/2018 - www.youtube.com - www.gamesguideinfo.com Explanation of all the different ways to increase your Battlefield Treatment. This boost determines how many of your casualties are going to the h...
+  #2 [similarity: 0.3746]
+  Title: Guns of Glory - Alliance Buildings Guide
+  Source: gamesguideinfo_guide
+  Content: y, so it is best to keep some Alliance Honor. Via the View Detais menu item when selecting the Alliance Hospital you see the total amount of wounded troops and lords having wounded troops in the allia...
+  #3 [similarity: 0.3596]
+  Title: Guns of Glory - Tips for Protecting Yourself
+  Source: gamesguideinfo_guide
+  Content: defender, as long as you have hospital capacity your lost troops will not die but end up in your hospitals (or alliance hospital), while the attacking troops that are lost (except for the battle trea ...
+============================================================
+
+Query: How should I protect my resources from enemy attacks?
+Results: 3
+  #1 [similarity: 0.8053]
+  Title: How can I prevent my resources from being taken
+  Source: gamesguideinfo_faq
+  Content: How can I prevent enemy attacks take so much of my resources? The trick is to keep your resources safe as much as possible. Only unsafe resources (above Warehouse capacity) and unharvested resources c...
+  #2 [similarity: 0.5514]
+  Title: Guns of Glory - Tips for Protecting Yourself
+  Source: gamesguideinfo_guide
+  Content: increase gathering speed) resource gathering speed and increase march capacity and troop load, so that your troops will take longer to come back from the alliance resource building. Sending troops to ...
+  #3 [similarity: 0.5103]
+  Title: Guns of Glory - Tips for Protecting Yourself
+  Source: gamesguideinfo_guide
+  Content: send your troops out gathering to the alliance resource building, before you go offline for longer times. If you have any questions or other tips to defend or protect yourself, please leave a comment....
+============================================================
+
+Query: What is the best troop composition for PvP?
+Results: 3
+  #1 [similarity: 0.8826]
+  Title: What is the best troop composition for PvP
+  Source: manual_faq_seed
+  Content: What is the best troop composition for PvP? There is no single composition that wins every fight. Use a composition that matches your troop tiers, gear, and opponent profile. Prioritize the troop type...
+  #2 [similarity: 0.4745]
+  Title: Gathering Troop Type
+  Source: gamesguideinfo_faq
+  Content: From a gathering rate point of view, is there any difference on which troops to use (for different resource types)? No, the gathering rate is the same for each troop type. Troop load and marching spee...
+  #3 [similarity: 0.5264]
+  Title: Guns of Glory - Library of War
+  Source: gamesguideinfo_guide
+  Content: antry troops), Cannons of Devestation (Distance, adds part of the Distance Defense to Distance Attack), Thunderous Charge (Cavalry, adds part of the Cavalry Defense to Cavalry Attack). I find it diffi...
+============================================================
+
+Query: How does the resonance boost for lord equipment work?
+Results: 1
+  #1 [similarity: 0.8769]
+  Title: How does resonance work for lord equipment
+  Source: manual_faq_seed
+  Content: How does resonance work for lord equipment? Resonance is a bonus that activates when your equipped lord gear pieces meet the required resonance condition. Upgrading and matching the required equipment...
+============================================================
+
+Query: How do I get more glory banners?
+Results: 3
+  #1 [similarity: 0.8099]
+  Title: How to get Glory Banners
+  Source: gamesguideinfo_faq
+  Content: How can I get more Glory Banners? Glory Banners are very important to boost the combat stats of your accounts by increasing the Glory Levels of your city buildings. Besides buying them from packs (or ...
+  #2 [similarity: 0.4642]
+  Title: Guns of Glory - Glory Levels
+  Source: gamesguideinfo_guide
+  Content: 03/13/2018 - www.youtube.com - www.gamesguideinfo.com Explanations of Glory levels with tips on how to get Glory Banners and how to best use them. Watch the video on www.youtube.com  Explanations of G...
+  #3 [similarity: 0.4418]
+  Title: Guns of Glory - Tips on Getting Materials
+  Source: gamesguideinfo_guide
+  Content: 12/19/2017 - www.youtube.com - www.gamesguideinfo.com Explanation of how to get Materials in Guns of Glory, via dismantling equipment, killing beasts, rallying red guards, market stall, shooting galle...
+============================================================
+
+=== VERIFICATION SUMMARY ===
+Total rows in gog_documents: 142
+Average similarity: 0.5982
+Queries with no retrieval: 0

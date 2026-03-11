@@ -1,0 +1,535 @@
+[
+  {
+    "query": "How do I unblock someone in chat?",
+    "expected_keywords": [
+      "unblock"
+    ],
+    "status": "success",
+    "model_used": "qwen3.5-plus",
+    "answer": "Hello there! To unblock a player in chat, you can go to **Settings**, find the block list, and select the player you want to unblock [Source 1].\n\nAlternatively, you can access the block list by clicking the small icon at the **top-left corner of the chat window**, then scrolling to the **Blocked List** at the bottom [Source 1].\n\nHope this helps you get back in touch with your friends!",
+    "citation_present": true,
+    "fallback_used": false,
+    "top_1_relevant": true,
+    "correct_source_in_top3": true,
+    "retrieval_titles": [
+      "How to block or unblock a player in chat"
+    ],
+    "retrieval_scores": [
+      0.791678428649908
+    ],
+    "sources": [
+      {
+        "title": "How to block or unblock a player in chat",
+        "url": "manual-entry",
+        "similarity": 0.791678428649908
+      }
+    ]
+  },
+  {
+    "query": "How many Shooting Gallery coins do I need in total?",
+    "expected_keywords": [
+      "shooting gallery"
+    ],
+    "status": "success",
+    "model_used": "qwen3.5-plus",
+    "answer": "Hello there! To unlock all the fields in the Shooting Gallery, you will need a total of **246 Shooting Gallery Coins**. \n\nThe coins are required in the following amounts for each field: 1, 2, 3, 6, 10, 19, 34, 61, and 110 [Source 1]. \n\nHope this helps you plan your strategy!",
+    "citation_present": true,
+    "fallback_used": false,
+    "top_1_relevant": true,
+    "correct_source_in_top3": true,
+    "retrieval_titles": [
+      "How Many Shooting Gallery Coins Are Needed",
+      "Guns of Glory - Shooting Gallery Guide",
+      "Guns of Glory - Avalon Artifacts"
+    ],
+    "retrieval_scores": [
+      0.864330675134977,
+      0.546185125069483,
+      0.359943062067032
+    ],
+    "sources": [
+      {
+        "title": "How Many Shooting Gallery Coins Are Needed",
+        "url": "manual://faq/how-many-shooting-gallery-coins-are-needed",
+        "similarity": 0.864330675134977
+      },
+      {
+        "title": "Guns of Glory - Shooting Gallery Guide",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/guide/shooting-gallery",
+        "similarity": 0.546185125069483
+      },
+      {
+        "title": "Guns of Glory - Avalon Artifacts",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/guide/cabinet-of-curiosities",
+        "similarity": 0.359943062067032
+      }
+    ]
+  },
+  {
+    "query": "How do I get Glory Banners?",
+    "expected_keywords": [
+      "glory banners"
+    ],
+    "status": "success",
+    "model_used": "qwen3.5-plus",
+    "answer": "Hello there! Glory Banners are very important for boosting your combat stats by increasing the Glory Levels of your city buildings. Based on the information available, here are the ways you can obtain them:\n\n*   **Buying them from packs.**\n*   **Receiving them when an alliance member purchases a certain glory banner pack.**\n*   **Participating in slaying the Underworld Villain.**\n*   **Earning them as rewards for the Red Guard raid event.**\n*   **Farming on kingdom resource tiles.**\n\nWe also recommend paying attention to new events and features, as there might be more ways to get these Glory Banners introduced over time [Source 1].",
+    "citation_present": true,
+    "fallback_used": false,
+    "top_1_relevant": true,
+    "correct_source_in_top3": true,
+    "retrieval_titles": [
+      "How to get Glory Banners",
+      "Guns of Glory - Glory Levels",
+      "Guns of Glory - Tips on Getting Materials"
+    ],
+    "retrieval_scores": [
+      0.766960038723956,
+      0.442866881829486,
+      0.462723947276364
+    ],
+    "sources": [
+      {
+        "title": "How to get Glory Banners",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/frequently-asked-question/2140000028-How-to-get-Glory-Banners",
+        "similarity": 0.766960038723956
+      },
+      {
+        "title": "Guns of Glory - Glory Levels",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/guide/glory-levels",
+        "similarity": 0.442866881829486
+      },
+      {
+        "title": "Guns of Glory - Tips on Getting Materials",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/guide/materials-guide",
+        "similarity": 0.462723947276364
+      }
+    ]
+  },
+  {
+    "query": "What is the difference between wounded conversion and battlefield treatment?",
+    "expected_keywords": [
+      "battlefield treatment",
+      "wounded conversion"
+    ],
+    "status": "success",
+    "model_used": "qwen3.5-plus",
+    "answer": "Hello! I'd be happy to clarify the difference between these two mechanics for you.\n\nAccording to our knowledge base, **Battlefield Treatment** affects how many of your battle losses are sent to hospitals as wounded [Source 1]. In contrast, **Wounded Conversion** is a separate mechanic that converts losses into wounded under specific conditions and limits [Source 1].\n\nWhile both systems work to reduce permanent losses, they are calculated through different systems. However, they can stack depending on the battle context [Source 1].\n\nHope that helps you keep your troops safe out there! Let me know if you have any other questions.",
+    "citation_present": true,
+    "fallback_used": false,
+    "top_1_relevant": true,
+    "correct_source_in_top3": true,
+    "retrieval_titles": [
+      "Difference between Wounded Conversion and Battlefield Treatment",
+      "Guns of Glory - Maximizing Battlefield Treatment",
+      "Guns of Glory - Alliance Buildings Guide"
+    ],
+    "retrieval_scores": [
+      0.874055691119691,
+      0.507754325866699,
+      0.37457337975502
+    ],
+    "sources": [
+      {
+        "title": "Difference between Wounded Conversion and Battlefield Treatment",
+        "url": "manual://faq/wounded-conversion-vs-battlefield-treatment",
+        "similarity": 0.874055691119691
+      },
+      {
+        "title": "Guns of Glory - Maximizing Battlefield Treatment",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/guide/maximizing-battlefield-treatment",
+        "similarity": 0.507754325866699
+      },
+      {
+        "title": "Guns of Glory - Alliance Buildings Guide",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/guide/alliance-buildings",
+        "similarity": 0.37457337975502
+      }
+    ]
+  },
+  {
+    "query": "Should I upgrade my castle first or level up all buildings evenly?",
+    "expected_keywords": [
+      "all buildings",
+      "castle"
+    ],
+    "status": "success",
+    "model_used": "qwen3.5-plus",
+    "answer": "Hello there! This is actually a personal choice, as both strategies have their own drawbacks and benefits [Source 1].\n\nIf you choose to upgrade your Castle very high first, you gain the benefit of extra March capacity and can unlock new tier troops by upgrading specific buildings like troop training facilities [Source 1]. However, the drawbacks include missing out on increased production rates from higher level resource buildings and research, which could actually make upgrading Castle levels easier later. Additionally, gold event targets seem to be linked to your Castle level, so letting your Castle get too far ahead of your other buildings can make it more difficult to score gold in various stages [Source 1].\n\nA recommended middle ground is to select certain levels to which you try to upgrade all your buildings. For example, some players start with level 16 to unlock tier 6 troops, and then jump to level 20 because Academy level 20 allows unlocking an extra march slot [Source 1].\n\nHope this helps you decide on the best strategy for your kingdom!",
+    "citation_present": true,
+    "fallback_used": false,
+    "top_1_relevant": true,
+    "correct_source_in_top3": true,
+    "retrieval_titles": [
+      "All Buildings at Same Level",
+      "Castle Upgrade Requirements",
+      "Move Building"
+    ],
+    "retrieval_scores": [
+      0.757095470601592,
+      0.598033803642804,
+      0.474970174578148
+    ],
+    "sources": [
+      {
+        "title": "All Buildings at Same Level",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/frequently-asked-question/2140000086-All-Buildings-at-Same-Level",
+        "similarity": 0.757095470601592
+      },
+      {
+        "title": "Castle Upgrade Requirements",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/frequently-asked-question/2140000001-Castle-Upgrade-Requirements",
+        "similarity": 0.598033803642804
+      },
+      {
+        "title": "Move Building",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/frequently-asked-question/2140000002-Move-Building",
+        "similarity": 0.474970174578148
+      }
+    ]
+  },
+  {
+    "query": "How does the resonance boost for lord equipment work?",
+    "expected_keywords": [
+      "resonance",
+      "lord equipment"
+    ],
+    "status": "success",
+    "model_used": "qwen3.5-plus",
+    "answer": "Hello! I'd be happy to explain how the resonance boost for Lord Equipment works.\n\nBased on the game mechanics, resonance consists of two main parts [Source 1]:\n\n1.  **Set Resonance:** This activates when you equip the required combination of Lord Equipment pieces.\n2.  **Enhancement Resonance:** This increases when the relevant pieces are enhanced to the required levels.\n\nPlease note that if these conditions are not met, the resonance bonuses will not activate [Source 1]. Make sure to check your equipment setup to ensure you qualify for the bonuses!",
+    "citation_present": true,
+    "fallback_used": false,
+    "top_1_relevant": true,
+    "correct_source_in_top3": true,
+    "retrieval_titles": [
+      "Resonance Boost for Lord Equipment",
+      "Resonance for Creation"
+    ],
+    "retrieval_scores": [
+      0.878615624987162,
+      0.664427498642728
+    ],
+    "sources": [
+      {
+        "title": "Resonance Boost for Lord Equipment",
+        "url": "manual://faq/resonance-boost-for-lord-equipment",
+        "similarity": 0.878615624987162
+      },
+      {
+        "title": "Resonance for Creation",
+        "url": "manual://faq/resonance-for-creation",
+        "similarity": 0.664427498642728
+      }
+    ]
+  },
+  {
+    "query": "How should I protect myself from enemy rally attacks?",
+    "expected_keywords": [
+      "protecting yourself",
+      "rally"
+    ],
+    "status": "success",
+    "model_used": "qwen3.5-plus",
+    "answer": "Hello! Here are some tips based on our knowledge base to help protect yourself from enemy rally attacks:\n\n*   **Hide Your Troops in a Rally:** You can put your troops in a rally as a defensive tactic. Troops in a rally cannot be attacked, they are not defending, and they will not be spotted by scouts [Source 1].\n*   **Send Troops Gathering Before Logging Off:** If you plan to go offline for a longer period, send your troops out gathering to the alliance resource building [Source 3].\n*   **Utilize Hospital Capacity:** As a defender, you have a benefit regarding troop survival. As long as you have hospital capacity, your lost troops will not die but will end up in your hospitals (or alliance hospital), whereas most attacking troops that are lost will not be saved [Source 3].\n*   **Be Aware of Attacker Advantages:** Keep in mind that rally leaders (such as level 20) often have significant combat boosts from Airship Abilities, Lord Talent Points, Research, and equipment. Unless you have a huge army and are fully reinforced, it is difficult to stand a chance against incoming rally attacks [Source 3].\n\nStay safe out there, and feel free to ask if you have more questions!",
+    "citation_present": true,
+    "fallback_used": false,
+    "top_1_relevant": true,
+    "correct_source_in_top3": true,
+    "retrieval_titles": [
+      "Hiding Troops in a Rally",
+      "How can I prevent my resources from being taken",
+      "Guns of Glory - Tips for Protecting Yourself"
+    ],
+    "retrieval_scores": [
+      0.634967007337035,
+      0.502133026782663,
+      0.610046625137329
+    ],
+    "sources": [
+      {
+        "title": "Hiding Troops in a Rally",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/frequently-asked-question/2140000017-Hiding-Troops-in-a-Rally",
+        "similarity": 0.634967007337035
+      },
+      {
+        "title": "How can I prevent my resources from being taken",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/frequently-asked-question/2140000060-How-can-I-prevent-my-resources-from-being-taken",
+        "similarity": 0.502133026782663
+      },
+      {
+        "title": "Guns of Glory - Tips for Protecting Yourself",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/guide/protecting-defending-rally-attack",
+        "similarity": 0.610046625137329
+      }
+    ]
+  },
+  {
+    "query": "What is the best troop composition for PvP?",
+    "expected_keywords": [
+      "troop composition",
+      "pvp"
+    ],
+    "status": "success",
+    "model_used": "qwen3.5-plus",
+    "answer": "Hello! Based on the information available in our knowledge base, there isn't a specific recommendation for a single \"best\" troop composition for PvP. However, there are some mechanics regarding troop types that can help you make an informed decision.\n\nAccording to [Source 2], infantry troops have a unique function where they can absorb damage aimed at other troop types during battle, provided that at least 50% of your original infantry remains. This suggests that including infantry in your march may help protect your other units during combat.\n\nThe other available information notes that gathering rates are identical for all troop types [Source 1] and discusses equipment upgrades involving Troop Defense and Attack [Source 3], but these do not specify ideal PvP troop ratios. I hope this insight helps you optimize your army for battle!",
+    "citation_present": true,
+    "fallback_used": false,
+    "top_1_relevant": false,
+    "correct_source_in_top3": false,
+    "retrieval_titles": [
+      "Gathering Troop Type",
+      "Guns of Glory - Library of War",
+      "Guns of Glory - Sun King vs Master"
+    ],
+    "retrieval_scores": [
+      0.474450244738169,
+      0.526439682437172,
+      0.469869136810303
+    ],
+    "sources": [
+      {
+        "title": "Gathering Troop Type",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/frequently-asked-question/2140000006-Gathering-Troop-Type",
+        "similarity": 0.474450244738169
+      },
+      {
+        "title": "Guns of Glory - Library of War",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/guide/library-of-war",
+        "similarity": 0.526439682437172
+      },
+      {
+        "title": "Guns of Glory - Sun King vs Master",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/guide/sun-king-vs-master",
+        "similarity": 0.469869136810303
+      }
+    ]
+  },
+  {
+    "query": "How do I grow faster as a mid-level player?",
+    "expected_keywords": [
+      "growth strategy",
+      "march slots"
+    ],
+    "status": "success",
+    "model_used": "qwen3.5-plus",
+    "answer": "Hello there! Based on the information available, here are some ways to help you grow faster:\n\nThe key factor in growth is resources. Since resources are the most restricting factor in your growth, being able to gather more resources at a time will allow you to grow faster [Source 3]. Therefore, working towards unlocking all 5 March Slots should be a focus, as having multiple deployments allows you to gather resources with multiple marches simultaneously [Source 3].\n\nRegarding building upgrades, there is a balance to consider. While leveling up your Castle provides extra March capacity and unlocks new troop tiers, leveling it too high before other buildings can delay benefits from increased production rates from higher level resource buildings and research [Source 2]. Some players prefer a middle ground, upgrading all buildings to certain levels (such as level 16 or 20) to unlock specific benefits while maintaining production efficiency [Source 2].\n\nAdditionally, you can increase your March Capacity through Castle upgrades, Combat research projects, talent point assignment in the War category, and the Airship ability March of Fury [Source 1].\n\nGood luck with your progress!",
+    "citation_present": true,
+    "fallback_used": false,
+    "top_1_relevant": false,
+    "correct_source_in_top3": true,
+    "retrieval_titles": [
+      "Increase March Size",
+      "All Buildings at Same Level",
+      "Guns of Glory - March Slots"
+    ],
+    "retrieval_scores": [
+      0.434781368659816,
+      0.36902626249116,
+      0.468776389025938
+    ],
+    "sources": [
+      {
+        "title": "Increase March Size",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/frequently-asked-question/2140000074-Increase-March-Size",
+        "similarity": 0.434781368659816
+      },
+      {
+        "title": "All Buildings at Same Level",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/frequently-asked-question/2140000086-All-Buildings-at-Same-Level",
+        "similarity": 0.36902626249116
+      },
+      {
+        "title": "Guns of Glory - March Slots",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/guide/march-slots",
+        "similarity": 0.468776389025938
+      }
+    ]
+  },
+  {
+    "query": "When is the next Guns of Glory update coming?",
+    "expected_keywords": [],
+    "status": "no_retrieval",
+    "model_used": null,
+    "answer": "I don't have specific information about that in my knowledge base. You may want to check the official Guns of Glory help center or ask in your alliance chat.",
+    "citation_present": false,
+    "fallback_used": true,
+    "top_1_relevant": false,
+    "correct_source_in_top3": false,
+    "retrieval_titles": [],
+    "retrieval_scores": [],
+    "sources": []
+  },
+  {
+    "query": "How do I unblock a player in chat?",
+    "expected_keywords": [
+      "unblock"
+    ],
+    "status": "success",
+    "model_used": "qwen3.5-plus",
+    "answer": "Hello! To unblock a player in chat, you can go to **Settings**, find the **block list**, and select the player you want to unblock [Source 1].\n\nAlternatively, you can access the block list by clicking the **small icon at the top-left corner of the chat window**, then scrolling to the **Blocked List** at the bottom [Source 1].\n\nLet me know if you need any further assistance!",
+    "citation_present": true,
+    "fallback_used": false,
+    "top_1_relevant": true,
+    "correct_source_in_top3": true,
+    "retrieval_titles": [
+      "How to block or unblock a player in chat",
+      "How to report a player for cheating or harassment"
+    ],
+    "retrieval_scores": [
+      0.877938046701187,
+      0.44753790214432
+    ],
+    "sources": [
+      {
+        "title": "How to block or unblock a player in chat",
+        "url": "manual-entry",
+        "similarity": 0.877938046701187
+      },
+      {
+        "title": "How to report a player for cheating or harassment",
+        "url": "manual-entry",
+        "similarity": 0.44753790214432
+      }
+    ]
+  },
+  {
+    "query": "How does resonance work for lord equipment?",
+    "expected_keywords": [
+      "resonance",
+      "lord equipment"
+    ],
+    "status": "success",
+    "model_used": "qwen3.5-plus",
+    "answer": "Hello! I'd be happy to explain how resonance works for your Lord Equipment.\n\nResonance consists of two main parts: **set resonance** and **enhancement resonance** [Source 1].\n\n*   **Set Resonance:** This activates when you equip the required combination of lord equipment pieces [Source 1].\n*   **Enhancement Resonance:** This increases when the relevant pieces are enhanced to the required levels [Source 1].\n\nPlease keep in mind that if these conditions are not met, the resonance bonuses will not activate [Source 1]. Make sure to check your equipment setup to ensure you meet all the requirements!",
+    "citation_present": true,
+    "fallback_used": false,
+    "top_1_relevant": true,
+    "correct_source_in_top3": true,
+    "retrieval_titles": [
+      "Resonance Boost for Lord Equipment",
+      "Resonance for Creation"
+    ],
+    "retrieval_scores": [
+      0.802498292774077,
+      0.693349881969375
+    ],
+    "sources": [
+      {
+        "title": "Resonance Boost for Lord Equipment",
+        "url": "manual://faq/resonance-boost-for-lord-equipment",
+        "similarity": 0.802498292774077
+      },
+      {
+        "title": "Resonance for Creation",
+        "url": "manual://faq/resonance-for-creation",
+        "similarity": 0.693349881969375
+      }
+    ]
+  },
+  {
+    "query": "What is the best PvP troop composition?",
+    "expected_keywords": [
+      "troop composition",
+      "pvp"
+    ],
+    "status": "success",
+    "model_used": "qwen3.5-plus",
+    "answer": "Hello! While the provided context does not explicitly state a specific ratio or single \"best\" PvP troop composition, it does offer valuable insights into War Strategies and troop mechanics that can help you optimize your march [Source 1].\n\nBased on the Library of War analysis, here is what is recommended regarding troop types and strategies:\n\n*   **Preferred Strategies:** The analysis suggests focusing on **Indestructible** (Infantry), **Cannons of Devastation** (Distance), and **Thunderous Charge** (Cavalry) [Source 1][Source 3]. These are favored because they either increase defense significantly or convert Defense stats into Attack stats [Source 1][Source 3].\n*   **Less Preferred Strategies:** Pure defense boosts like **Iron Will** (Distance) and **Steel Resolve** (Cavalry) are considered less valuable compared to the options above [Source 1][Source 3].\n*   **Infantry Mechanics:** The **Sacrifice** strategy allows infantry to absorb damage aimed at other troop types, provided you still have 50% of your original infantry remaining during the battle [Source 1][Source 3].\n*   **Gear Boosts:** Equipment upgrades provide significant percentage boosts to Attack and Defense for Infantry, Cavalry, and Distance troops, suggesting all types can be viable depending on your gear [Source 2].\n\nSince the higher tier War Strategies (9-12) are noted as \"quite good,\" you might consider a composition that allows you to take advantage of the preferred strategies listed above across your troop types [Source 1]. I hope this helps you strengthen your army!",
+    "citation_present": true,
+    "fallback_used": false,
+    "top_1_relevant": false,
+    "correct_source_in_top3": false,
+    "retrieval_titles": [
+      "Guns of Glory - Library of War",
+      "Guns of Glory - Sun King vs Master",
+      "Guns of Glory - Library of War"
+    ],
+    "retrieval_scores": [
+      0.521950110138952,
+      0.499018818023078,
+      0.484695317185483
+    ],
+    "sources": [
+      {
+        "title": "Guns of Glory - Library of War",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/guide/library-of-war",
+        "similarity": 0.521950110138952
+      },
+      {
+        "title": "Guns of Glory - Sun King vs Master",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/guide/sun-king-vs-master",
+        "similarity": 0.499018818023078
+      },
+      {
+        "title": "Guns of Glory - Library of War",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/guide/library-of-war",
+        "similarity": 0.484695317185483
+      }
+    ]
+  },
+  {
+    "query": "How do I get basic development ingot?",
+    "expected_keywords": [
+      "basic development ingot"
+    ],
+    "status": "success",
+    "model_used": "qwen3.5-plus",
+    "answer": "Hello there! According to the available information, there isn't a quick or easy way to obtain Basic Development Ingots. \n\nTo get them, you need to keep **killing beasts** and **rallying red guards**. Each time you do this, there is a relatively small chance (compared to Combat Ingots) that you will receive some. For red guards specifically, these ingots can be found in the standard Chest [Source 1].\n\nKeep at it, and good luck with your drops!",
+    "citation_present": true,
+    "fallback_used": false,
+    "top_1_relevant": true,
+    "correct_source_in_top3": true,
+    "retrieval_titles": [
+      "How to get Basic Development Ingot"
+    ],
+    "retrieval_scores": [
+      0.633531231687404
+    ],
+    "sources": [
+      {
+        "title": "How to get Basic Development Ingot",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/frequently-asked-question/2140000115-How-to-get-Basic-Development-Ingot",
+        "similarity": 0.633531231687404
+      }
+    ]
+  },
+  {
+    "query": "How many total shooting gallery coins are needed?",
+    "expected_keywords": [
+      "shooting gallery"
+    ],
+    "status": "success",
+    "model_used": "qwen3.5-plus",
+    "answer": "Hello there! I can certainly help you with that.\n\nAccording to the information available, you need a total of **246 Shooting Gallery Coins** to unlock all fields in the Shooting Gallery. The requirements for the individual fields are 1, 2, 3, 6, 10, 19, 34, 61, and 110 coins [Source 1].\n\nGood luck with your gameplay!",
+    "citation_present": true,
+    "fallback_used": false,
+    "top_1_relevant": true,
+    "correct_source_in_top3": true,
+    "retrieval_titles": [
+      "How Many Shooting Gallery Coins Are Needed",
+      "Guns of Glory - Shooting Gallery Guide",
+      "Guns of Glory - Avalon Artifacts"
+    ],
+    "retrieval_scores": [
+      0.861897792276675,
+      0.555241515211005,
+      0.355259865522385
+    ],
+    "sources": [
+      {
+        "title": "How Many Shooting Gallery Coins Are Needed",
+        "url": "manual://faq/how-many-shooting-gallery-coins-are-needed",
+        "similarity": 0.861897792276675
+      },
+      {
+        "title": "Guns of Glory - Shooting Gallery Guide",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/guide/shooting-gallery",
+        "similarity": 0.555241515211005
+      },
+      {
+        "title": "Guns of Glory - Avalon Artifacts",
+        "url": "https://www.gamesguideinfo.com/guns-of-glory/guide/cabinet-of-curiosities",
+        "similarity": 0.355259865522385
+      }
+    ]
+  }
+]

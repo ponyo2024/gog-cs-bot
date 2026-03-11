@@ -1,0 +1,23 @@
+[
+  {
+    "source": "manual_faq_seed",
+    "type": "faq",
+    "title": "How do I unblock a player in chat",
+    "url": "manual://faq/unblock-player-chat",
+    "content": "How do I unblock a player in chat? Open the in-game chat, open your block list, find the player, and remove them from the blocked list. After removing the block, their messages can appear in chat again. If you still cannot see messages, restart chat and confirm the player is not muted."
+  },
+  {
+    "source": "manual_faq_seed",
+    "type": "faq",
+    "title": "How does resonance work for lord equipment",
+    "url": "manual://faq/lord-equipment-resonance",
+    "content": "How does resonance work for lord equipment? Resonance is a bonus that activates when your equipped lord gear pieces meet the required resonance condition. Upgrading and matching the required equipment setup increases the resonance effect. If conditions are not met, resonance bonuses are not active."
+  },
+  {
+    "source": "manual_faq_seed",
+    "type": "faq",
+    "title": "What is the best troop composition for PvP",
+    "url": "manual://faq/best-pvp-troop-composition",
+    "content": "What is the best troop composition for PvP? There is no single composition that wins every fight. Use a composition that matches your troop tiers, gear, and opponent profile. Prioritize the troop types you have strongest boosts for, and adjust composition after reading battle reports."
+  }
+]

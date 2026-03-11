@@ -1,0 +1,167 @@
+[
+  {
+    "answer": "Hello! To unblock a player in chat, you can follow these steps:\n\n1.  Go to **Settings**.\n2.  Find the **block list**.\n3.  Select the player you want to unblock.\n\nAlternatively, you can access the block list by clicking the small icon at the top-left corner of the chat window, then scrolling to the **Blocked List** at the bottom [Document 92].\n\nHope this helps you reconnect with your alliance mates!",
+    "model_used": "qwen3.5-plus",
+    "status": "success",
+    "latency_seconds": 44.71,
+    "prompt_tokens": 101339,
+    "completion_tokens": 946,
+    "total_tokens": 102285,
+    "doc_count": 102,
+    "query": "How do I unblock someone in chat?"
+  },
+  {
+    "answer": "Hello! According to the game guides, you need a total of **246 Shooting Gallery Coins** to unlock all the fields in the Shooting Gallery.\n\nThe breakdown for each field is as follows: 1, 2, 3, 6, 10, 19, 34, 61, and 110 coins [Document 99].\n\nHope this helps you plan your resource gathering!",
+    "model_used": "qwen3.5-plus",
+    "status": "success",
+    "latency_seconds": 15.9,
+    "prompt_tokens": 101341,
+    "completion_tokens": 675,
+    "total_tokens": 102016,
+    "doc_count": 102,
+    "query": "How many Shooting Gallery coins do I need in total?"
+  },
+  {
+    "answer": "Hello there! Glory Banners are very important for boosting the combat stats of your account by increasing the Glory Levels of your city buildings.\n\nBased on the guides, here are the ways you can acquire Glory Banners:\n\n*   **Packs:** You can buy them directly from packs, or receive them when an alliance member purchases a certain glory banner pack.\n*   **Underworld Villain:** Participate in slaying the Underworld Villain to earn them.\n*   **Red Guard Raid Event:** They are available as rewards for this event.\n*   **Farming:** You can obtain them by farming on kingdom resource tiles.\n*   **New Events:** Keep an eye on new events and features that are introduced, as there might be additional ways to get them.\n\n[Document 22]\n\nHope this helps you strengthen your estate! Let me know if you have any other questions.",
+    "model_used": "qwen3.5-plus",
+    "status": "success",
+    "latency_seconds": 87.65,
+    "prompt_tokens": 101338,
+    "completion_tokens": 1526,
+    "total_tokens": 102864,
+    "doc_count": 102,
+    "query": "How do I get Glory Banners?"
+  },
+  {
+    "answer": "Hello there! That's an important question for keeping your troops alive in battle.\n\nBased on the game guides, here is the difference between the two mechanics:\n\n*   **Battlefield Treatment**: This boost determines how many of your battle losses are sent to the hospital as wounded troops instead of dying [Document 102][Document 73].\n*   **Wounded Conversion**: This is a separate mechanic that also converts losses into wounded troops, but it works under specific conditions and limits [Document 102].\n\nWhile both mechanics help reduce permanent troop losses, they are calculated through different systems and can stack depending on the battle context [Document 102].\n\nHope that helps clarify things for your battles!",
+    "model_used": "qwen3.5-plus",
+    "status": "success",
+    "latency_seconds": 82.02,
+    "prompt_tokens": 101341,
+    "completion_tokens": 1110,
+    "total_tokens": 102451,
+    "doc_count": 102,
+    "query": "What is the difference between wounded conversion and battlefield treatment?"
+  },
+  {
+    "answer": "This is a classic debate among lords! According to the guides, this is largely a **personal choice**, as both strategies have their own benefits and drawbacks [Document 5].\n\nHere is a breakdown to help you decide:\n\n**Benefits of Upgrading Castle First:**\n*   **March Capacity:** You gain extra march slots sooner, which is crucial for gathering and attacking [Document 5].\n*   **Troop Unlocks:** It allows you to upgrade specific buildings (like troop training buildings) to unlock higher tier troops faster [Document 5].\n\n**Drawbacks of Upgrading Castle First:**\n*   **Missed Buffs:** You delay benefits from higher level resource buildings and research (like production and gathering rates) that could actually make upgrading your Castle easier in the long run [Document 5].\n*   **Gold Events:** Gold event targets seem to be linked to your Castle level. If your Castle is too far ahead of your other buildings, it becomes more difficult to score gold in various stages [Document 5].\n\n**Recommended \"Middle Ground\" Strategy:**\nMany experienced players suggest selecting certain milestone levels to which you try to upgrade **all** your buildings before pushing the Castle further. A common progression path is:\n*   **Level 16:** Unlocks tier 6 troops [Document 5].\n*   **Level 20:** Academy level 20 unlocks an extra march slot (and level 19 unlocks tier 7 troops) [Document 5].\n*   **Next Milestones:** Then aim for levels 22, 26, and finally 30 [Document 5].\n\nUltimately, it depends on whether you prioritize immediate military capacity (Castle first) or long-term efficiency and event scoring (balanced upgrades) [Document 5].",
+    "model_used": "qwen3.5-plus",
+    "status": "success",
+    "latency_seconds": 47.51,
+    "prompt_tokens": 101343,
+    "completion_tokens": 1366,
+    "total_tokens": 102709,
+    "doc_count": 102,
+    "query": "Should I upgrade my castle first or level up all buildings evenly?"
+  },
+  {
+    "answer": "Hello there! I'd be happy to explain how the resonance boost for lord equipment works.\n\nBased on the game guides, resonance has two main parts [Document 100]:\n\n1.  **Set Resonance**: This activates when you equip the required combination of lord equipment pieces.\n2.  **Enhancement Resonance**: This increases when the relevant pieces are enhanced to the required levels.\n\nJust keep in mind that if these conditions are not met, the resonance bonuses will not activate [Document 100].\n\nHope this helps you gear up effectively!",
+    "model_used": "qwen3.5-plus",
+    "status": "success",
+    "latency_seconds": 48.99,
+    "prompt_tokens": 101340,
+    "completion_tokens": 1072,
+    "total_tokens": 102412,
+    "doc_count": 102,
+    "query": "How does the resonance boost for lord equipment work?"
+  },
+  {
+    "answer": "Great question! Protecting yourself from enemy rally attacks is one of the most important skills in Guns of Glory. Here's what the guides recommend:\n\n## **Best Protection Methods**\n\n### **1. Peace Shield (Bubble)** [Document 75, 98]\n- This is the **most effective way** to protect yourself\n- A peace shield blocks ALL incoming attacks for its duration\n- An 8-hour peace shield costs 600 gold or 60,000 alliance loyalty\n- **Important:** While shielded, you cannot attack other players either\n- Best used when going offline during Kill Events or when saving resources for big upgrades\n\n### **2. Empty Your Castle Before Going Offline** [Document 75]\nWhen you can't afford to stay shielded:\n- **Send your troops out** to:\n  - Gather resources on the kingdom map\n  - Reinforce an alliance member (preferably one who is shielded)\n  - Garrison alliance buildings\n  - Join a rally (troops in rallies cannot be attacked) [Document 33]\n- **Keep resources below Warehouse capacity** so they can't be looted\n- Use excess resources on building upgrades, research, or troop training\n- Send resources to alliance warehouse or alliance mates\n\n### **3. Alliance Shielding Strategy** [Document 51, 75]\n- The **Strategy Center** alliance building offers an Alliance Shielding Strategy\n- This casts a **4-hour shield to ALL alliance members**\n- Very useful for protecting the whole alliance during vulnerable times\n\n### **4. When Online and Under Attack** [Document 75]\nIf you're online when attacked:\n- Ask alliance members to **reinforce your embassy**\n- Make sure your **equipment and lord talent points are set for combat**\n- Use items to **boost your attack and defense stats**\n- Check your **hospital capacity** (city and alliance) to ensure wounded troops can be saved\n\n### **5. Resource Protection** [Document 20, 21]\n- **Gold cannot be looted** - only food, wood, iron, and silver can be taken\n- Don't open resource items/claim quests until you're ready to use them\n- Only unsafe resources (above Warehouse capacity) can be taken\n\n## **Important Reality Check** [Document 75]\nThe game **favors attackers** significantly. Unless you have a huge army and are fully reinforced, you likely won't stand a chance against incoming rally attacks. The attacker can often wipe out castles without taking significant losses.\n\n## **My Recommendation**\nThe best approach is a combination:\n1. Use peace shields during Kill Events or when offline for long periods\n2. Send troops to gather at alliance resource buildings before going offline\n3. Coordinate with your alliance for reinforcement and shielding strategies\n4. Keep excess resources stored safely (warehouse, alliance warehouse, or unopened items)\n\nGood luck, and stay safe out there! 🛡️",
+    "model_used": "qwen3.5-plus",
+    "status": "success",
+    "latency_seconds": 31.0,
+    "prompt_tokens": 101340,
+    "completion_tokens": 934,
+    "total_tokens": 102274,
+    "doc_count": 102,
+    "query": "How should I protect myself from enemy rally attacks?"
+  },
+  {
+    "answer": "Hello there! Based on the available guides, there isn't a single definitive \"best\" troop composition for PvP listed, as it often depends on your specific gear, War Strategies, and whether you are attacking castles with traps. However, here are some key insights from the knowledge base that can help you decide:\n\n*   **Artillery vs. Traps:** When attacking castles, **Mortars** have an increased attack against traps, while **Cannons** can help absorb damage from traps. However, since there are usually way more troops than traps in defending parties, it is often better to just focus on troops generally rather than optimizing specifically for traps [Document 14].\n*   **War Strategies:** You should determine which troops you use in your **PvP March Preset** and focus your Library of War Strategies on those troops. It is recommended to upgrade the War Strategies for the troops you use in order of descending amount in your march [Document 70].\n*   **Gear Considerations:** Different gear sets favor different troop types. For example, when comparing Sun King vs. Master gear, some pieces provide better boosts for **Cavalry**, **Distance**, or **Infantry** health and attack. You may want to forge pieces based on which troop types you prioritize (e.g., Master Boots are valued highly for replacing Artillery Defense with Troop Defense) [Document 81].\n*   **Boosts:** You can acquire extra combat boosts for **Infantry**, **Cavalry**, and **Distance** troops through systems like Curiosities, which allow you to refine specific troop type attacks, defense, and health [Document 54].\n\nSince the best mix can vary based on your account development and gear, many players recommend focusing on the troops you have the best boosts and gear for, while keeping a mix that can handle traps if you are attacking castles [Document 14][Document 70][Document 81].\n\nHope this helps you plan your marches!",
+    "model_used": "qwen3.5-plus",
+    "status": "success",
+    "latency_seconds": 95.33,
+    "prompt_tokens": 101339,
+    "completion_tokens": 2285,
+    "total_tokens": 103624,
+    "doc_count": 102,
+    "query": "What is the best troop composition for PvP?"
+  },
+  {
+    "answer": "# How to Grow Faster as a Mid-Level Player\n\nBased on the Guns of Glory knowledge base, here are the key strategies to accelerate your growth:\n\n## 1. Unlock All 5 March Slots [Document 11, Document 71]\nThis is one of the **most important priorities** for faster growth:\n- You start with 1 March Slot\n- Unlock 3 more through March Slot I, II, and III projects in the Combat Tree (March Slot III requires Academy Level 20)\n- Get VIP 8 to unlock the 5th March Slot (keep VIP active at all times)\n- **Why it matters:** Multiple march slots allow you to gather resources with multiple marches simultaneously, which is the key restricting factor in growth [Document 71]\n\n## 2. Balanced Building Upgrade Strategy [Document 5]\nDon't push your Castle too far ahead of other buildings:\n- **Drawbacks of high Castle first:** You miss out on production rate benefits from resource buildings and research, and gold event targets become harder\n- **Benefits of Castle upgrades:** Extra March capacity and unlocks for troop training buildings\n- **Recommended middle ground:** Target specific levels where you upgrade all buildings together (lvl 16 for Tier 6 troops, lvl 20 for Academy and extra march slot, then 22, 26, and 30)\n\n## 3. Resource Management & Protection [Document 20, Document 97]\n- **Keep resources safe:** Only unsafe resources (above Warehouse capacity) and unharvested resources can be taken\n- **Don't open resource items** until you're ready to use them\n- **Build and upgrade farms** for constant food production\n- **Send troops to gather** from resource tiles (higher level tiles near map center have more resources) [Document 35]\n- **Keep food items in inventory** and only open when needed (items cannot be looted)\n\n## 4. Protect Your Troops [Document 75]\n- **Use peace shields strategically** when going offline during Kill Events (though expensive at 600 gold for 8 hours)\n- **Empty your castle before going offline:** Send troops to gather, reinforce allies, or garrison alliance buildings\n- **Consider reinforcing shielded alliance members** if you're being attacked frequently\n- **Make sure you have enough hospital capacity** to store wounded troops\n\n## 5. Participate in Events [Document 19, Document 22]\n- **Gold Event stages:** gathering (1d) → upgrade (1d) → astrologer (1d) → troop training (1d) → kill (3d)\n- **Get Glory Banners** to boost combat stats through Glory Levels of city buildings (from Underworld Villain, Red Guard raids, farming resource tiles)\n\n## 6. Focus on Combat Power [Document 9, Document 22]\nDevelop your account in all areas:\n- Equipment\n- Gemstones\n- Guards\n- Research\n- Airship abilities\n\n## 7. Alliance Benefits [Document 51]\n- Join an active alliance for **Fortress Boosts** (24% Resource Gathering Speed, Production, and Storage Boosts)\n- Use **Alliance Warehouse** to save resources over several days\n- Participate in **Alliance Resource Buildings** for faster gathering\n\n## Key Takeaway\nThe most important focus should be **unlocking all 5 March Slots as soon as possible** - the sooner you have them, the longer you can benefit from simultaneous resource gathering, which is the main growth accelerator [Document 71]. Combine this with smart resource protection and balanced building upgrades for optimal mid-level progression.",
+    "model_used": "qwen3.5-plus",
+    "status": "success",
+    "latency_seconds": 67.35,
+    "prompt_tokens": 101341,
+    "completion_tokens": 1405,
+    "total_tokens": 102746,
+    "doc_count": 102,
+    "query": "How do I grow faster as a mid-level player?"
+  },
+  {
+    "answer": "Hello there! I've checked through the available guides and FAQs in our knowledge base, but unfortunately, I don't have information about the specific schedule or date for the next Guns of Glory update.\n\nThe documents I have access to mention past updates, such as version 2.5.0 which introduced Curiosities and Night Siege [Document 54], and the Library of War which was introduced in May 2019 [Document 70]. However, none of them include a roadmap or release date for future updates.\n\nFor the most accurate and up-to-date information on upcoming updates, I'd recommend keeping an eye on official game announcements or the news section within the game!",
+    "model_used": "qwen3.5-plus",
+    "status": "success",
+    "latency_seconds": 104.8,
+    "prompt_tokens": 101340,
+    "completion_tokens": 2099,
+    "total_tokens": 103439,
+    "doc_count": 102,
+    "query": "When is the next Guns of Glory update coming?"
+  },
+  {
+    "answer": "Hey there! Unblocking a player in chat is pretty straightforward. You can do it in a couple of ways:\n\n*   Go to **Settings**, find the **block list**, and select the player you want to unblock.\n*   Alternatively, click the **small icon at the top-left corner of the chat window**, scroll down to the **Blocked List** at the bottom, and select the player there.\n\nHope that helps you get back to chatting! [Document 92]",
+    "model_used": "qwen3.5-plus",
+    "status": "success",
+    "latency_seconds": 59.92,
+    "prompt_tokens": 101340,
+    "completion_tokens": 896,
+    "total_tokens": 102236,
+    "doc_count": 102,
+    "query": "How do I unblock a player in chat?"
+  },
+  {
+    "answer": "Hey there! I can help clarify how resonance works for your lord equipment.\n\nBased on the game guides, resonance for lord equipment consists of two main parts [Document 100]:\n\n1.  **Set Resonance:** This activates when you equip the required combination of lord equipment pieces.\n2.  **Enhancement Resonance:** This increases when the relevant pieces are enhanced to the required levels.\n\nIt is important to note that if these conditions are not met, the resonance bonuses will not activate [Document 100]. Also, keep in mind that creation equipment does not use the same resonance rules as standard lord equipment sets [Document 101].\n\nHope that helps you optimize your gear!",
+    "model_used": "qwen3.5-plus",
+    "status": "success",
+    "latency_seconds": 33.04,
+    "prompt_tokens": 101338,
+    "completion_tokens": 1119,
+    "total_tokens": 102457,
+    "doc_count": 102,
+    "query": "How does resonance work for lord equipment?"
+  },
+  {
+    "answer": "Hello there! Based on the available guides, there isn't a single specific troop composition explicitly declared as the universal \"best\" for PvP, as much depends on your specific setup and strategies. However, here are some key insights from the documents that can help you optimize your marches for PvP battles:\n\n*   **Troops vs. Traps:** When attacking castles, keep in mind that there are usually way more troops than traps in defending parties. While Mortars have increased attack against traps and Cannons can help absorb damage, it is often better to just focus on troops generally [Document 14].\n*   **War Strategies:** You should focus on War Strategies that complement the troops you actually use in your PvP March Preset. For example, strategies like **Indestructible** (Infantry), **Cannons of Devestation** (Distance), and **Thunderous Charge** (Cavalry) are recommended for boosting all tiers of a troop type. It is suggested to upgrade one strategy to level 5 before focusing on a new one [Document 70].\n*   **Combat Boosts Matter:** The game tends to favor attackers. While troop amounts are important, combat boosts from Airship Abilities, Lord Talent Points, Research Projects, and equipment often make a huge difference in stats. A rally leader with better boosts can have a significant advantage [Document 75].\n*   **Creation Specialization:** If you are using the Creation feature, the **Explosive** specialization is noted to perform better in PvP battles compared to Warrior (which is better for Catacombs) [Document 8].\n*   **Gear Considerations:** When upgrading gear sets like Sun King vs. Master, pay attention to stats like Troop Attack and Troop Defense. For example, Troop Attack is highly valued, and some pieces (like Boots) may offer better Troop Defense upgrades than others (like Armor) depending on the set [Document 81].\n\nUltimately, the best composition often depends on which War Strategies you have developed and what gear boosts you prioritize. Many players focus on maximizing their march capacity and combat stats to support their chosen troop types [Document 75][Document 70].\n\nHope this helps you plan your next rally!",
+    "model_used": "qwen3.5-plus",
+    "status": "success",
+    "latency_seconds": 56.08,
+    "prompt_tokens": 101338,
+    "completion_tokens": 2402,
+    "total_tokens": 103740,
+    "doc_count": 102,
+    "query": "What is the best PvP troop composition?"
+  },
+  {
+    "answer": "Hey there! Based on the guides available, there isn't a quick or easy way to get Basic Development Ingots, but you can farm them through consistent gameplay.\n\nHere are the known methods to acquire them:\n*   **Killing Beasts:** Keep killing beasts on the map.\n*   **Rallying Red Guards:** Participate in rallies against Red Guard Camps.\n\nPlease note that the drop chance for Basic Development Ingots is relatively small compared to Combat Ingots. For Red Guards, these ingots can be found in the standard Chest reward [Document 1].\n\nKeep at it, and they should accumulate over time!",
+    "model_used": "qwen3.5-plus",
+    "status": "success",
+    "latency_seconds": 27.07,
+    "prompt_tokens": 101339,
+    "completion_tokens": 778,
+    "total_tokens": 102117,
+    "doc_count": 102,
+    "query": "How do I get basic development ingot?"
+  },
+  {
+    "answer": "Hello there! Based on the game guides, you need a total of **246 Shooting Gallery Coins** to unlock all the fields in the Shooting Gallery [Document 99].\n\nThe breakdown for each field is as follows: 1, 2, 3, 6, 10, 19, 34, 61, and 110 coins [Document 99].\n\nHope this helps you plan your resource gathering!",
+    "model_used": "qwen3.5-plus",
+    "status": "success",
+    "latency_seconds": 40.06,
+    "prompt_tokens": 101339,
+    "completion_tokens": 1096,
+    "total_tokens": 102435,
+    "doc_count": 102,
+    "query": "How many total shooting gallery coins are needed?"
+  }
+]
